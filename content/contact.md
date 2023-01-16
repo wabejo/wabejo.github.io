@@ -1,10 +1,10 @@
 +++
 title = "Contact"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
+description = "Kontak saya"
+date = "2023-01-17"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "lee.so"
+author = "bejo"
 +++
 
-- [github.com/nanxiaobei](https://github.com/nanxiaobei)
-- [lee.so](https://lee.so)
+- [eka](https://eka.li)
+- [bash.my.id](https://bash.my.id)
