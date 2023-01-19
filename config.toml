@@ -18,12 +18,19 @@ title = "Bejo Blog"
   color = 'linen'
 
 #  twitter = ''
-#  github = ''
+  github = 'wabejo'
 #  instagram = ''
   mastodon = 'https://eka.li/@bejo'
-  avatar = ''
+  rss = true
+
+# Home page profile
+  avatar = 'https://avatars.githubusercontent.com/u/122802513?v=4'
   name = 'Bejo'
   bio = 'Bejo is Lucky'
+
+ # Misc
+   monoDarkIcon = true
+   graphCommentId = 'bejolinepm'
 # ------------------------------
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
