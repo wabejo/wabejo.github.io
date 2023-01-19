@@ -15,7 +15,7 @@ categories = [
 
 Say hello to the world. 
 
-Blog ini powered by Hugo dengan theme Paper dan menggunakan hosting cloudflare pages dengan bantuan Github.
+Blog ini powered by Hugo dengan theme Paper dan menggunakan hosting ~~cloudflare pages~~ [Github Pages](/post/perjalanan-hosting-blog) dengan bantuan Github.
 
 Butuh waktu sekitar 2 jam dari pertama kali punya ide buat bikin blog dengan hugo sampai blog ini running.
 
