@@ -21,7 +21,7 @@ Saat mendaftar menggunakan sso dari github, saya tidak bisa login ke **Netlify**
 
 Ternyata di netlify akun baru saya dianggap spam dan harus mengontak support terlebih dahulu. Prosesnya lebih dari satu hari dan membuat saya mengubah haluan lagi ke vercel.
 
-Di **Vercel**, menurut pengalaman saya menggunakan yang pernah menggunakan subdomain dari noip.com, tidak ada masalah saat proses verifikasi domain.
+Di **Vercel**, menurut pengalaman saya yang pernah menggunakan subdomain dari noip.com, tidak ada masalah saat proses verifikasi domain.
 
 Ternyata anggapan saya keliru, subdomain saya yang beralamat di bejo.line.pm belum dimasukkan vercel ke penyedia subdomain gratis, jadi verifikasi CNAMEnya harus ke domain utama yang berujung tidak bisa host domain ini di Vercel.
 
