@@ -2,69 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://bejo.line.pm/</loc>
     <lastmod>2023-01-24T18:04:27+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/netlify-and-surge/</loc>
+    <loc>https://bejo.line.pm/post/netlify-and-surge/</loc>
     <lastmod>2023-01-24T18:04:27+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://bejo.line.pm/categories/</loc>
     <lastmod>2023-01-24T18:04:27+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/custom-subdomain/</loc>
+    <loc>https://bejo.line.pm/tags/custom-subdomain/</loc>
     <lastmod>2023-01-24T18:04:27+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hosting/</loc>
+    <loc>https://bejo.line.pm/tags/hosting/</loc>
     <lastmod>2023-01-24T18:04:27+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/index/</loc>
+    <loc>https://bejo.line.pm/tags/index/</loc>
     <lastmod>2023-01-24T18:04:27+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/my-story/</loc>
+    <loc>https://bejo.line.pm/categories/my-story/</loc>
     <lastmod>2023-01-24T18:04:27+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://bejo.line.pm/post/</loc>
     <lastmod>2023-01-24T18:04:27+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/static-site/</loc>
+    <loc>https://bejo.line.pm/tags/static-site/</loc>
     <lastmod>2023-01-24T18:04:27+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://bejo.line.pm/tags/</loc>
     <lastmod>2023-01-24T18:04:27+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cloudflare-pages/</loc>
+    <loc>https://bejo.line.pm/tags/cloudflare-pages/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://bejo.line.pm/tags/hugo/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/netlify/</loc>
+    <loc>https://bejo.line.pm/tags/netlify/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/perjalanan-hosting-blog/</loc>
+    <loc>https://bejo.line.pm/post/perjalanan-hosting-blog/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/vercel/</loc>
+    <loc>https://bejo.line.pm/tags/vercel/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://bejo.line.pm/contact/</loc>
     <lastmod>2023-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/uno/</loc>
+    <loc>https://bejo.line.pm/post/uno/</loc>
     <lastmod>2023-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blog/</loc>
+    <loc>https://bejo.line.pm/tags/blog/</loc>
     <lastmod>2023-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mastodon/</loc>
+    <loc>https://bejo.line.pm/tags/mastodon/</loc>
     <lastmod>2023-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://bejo.line.pm/about/</loc>
     <lastmod>2022-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://bejo.line.pm/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://bejo.line.pm/series/</loc>
   </url>
 </urlset>
